@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mustafa Aydın
-- 👀 I’m interested in Natural Language Processing  
+- 👀 I’m interested in Java Web Technologies
 - 🌱 I’m currently learning Open Source Technologies
-- 💞️ I’m looking to collaborate on Data Science
+- 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 You can reach me on 82mustafa82@gmail.com
 
 <!---
