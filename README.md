@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mustafa Aydın
-- 👀 I’m interested in Artificial Intelligence Technologies
+- 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Embedded System Technologies
 - 💞️ I’m looking to collaborate on Natural Language Processing
 - 📫 You can reach me on 82mustafa82@gmail.com
